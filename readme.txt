@@ -13,3 +13,6 @@ Please do the following to run the source code
         'D://temp//dataset//_unpack//vot2013'
 
 1) Run 'python train.py' to perform training
+
+[Pytorch version](https://github.com/PengBoXiangShang/SiamRPN_plus_plus_PyTorch)
+[Re-use some parts of SiameseRPN Tensorflow](https://github.com/makalo/Siamese-RPN-tensorflow)
